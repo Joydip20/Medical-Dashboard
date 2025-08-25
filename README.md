@@ -80,7 +80,7 @@ It provides insights into **patient demographics, hospital admissions, financial
 ## 🔗 Links
 - 📊 [LinkedIn Post](#)  
 - 📂 [Full Dashboard PDF](Medical%20Dashboard.pdf)  
-- 💻 [GitHub Repository](#)  
+- 💻 [GitHub Repository](https://github.com/Joydip20/Medical-Dashboard/tree/main)  
 
 ---
 
